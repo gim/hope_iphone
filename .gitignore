@@ -1,1 +1,6 @@
-build
+# Buildfiles from xcode
+/build
+
+# User spefici project files from xcode
+*.pbxuser
+*.mode1v3
