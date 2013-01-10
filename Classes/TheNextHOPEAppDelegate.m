@@ -46,7 +46,7 @@
 }
 
 - (void)webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error {
-	NSLog(@"%s", [error localizedDescription]);
+	NSLog(@"%@", [error localizedDescription]);
 }
 
 - (IBAction) doButtonSchedule {
