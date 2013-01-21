@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 45;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -15,32 +15,12 @@
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		7540895311D3370C009F74A1 /* JSInterface.m in Sources */ = {isa = PBXBuildFile; fileRef = 7540895211D3370C009F74A1 /* JSInterface.m */; };
 		75481EB711D848F10098C467 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 75481EB611D848F10098C467 /* Default.png */; };
-		7597134011D80C1500DD1919 /* favorites.html in Resources */ = {isa = PBXBuildFile; fileRef = 7597132911D80C1500DD1919 /* favorites.html */; };
-		7597134111D80C1500DD1919 /* background1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7597132B11D80C1500DD1919 /* background1.jpg */; };
-		7597134211D80C1500DD1919 /* background2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7597132C11D80C1500DD1919 /* background2.jpg */; };
-		7597134311D80C1500DD1919 /* background3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7597132D11D80C1500DD1919 /* background3.jpg */; };
-		7597134411D80C1500DD1919 /* background4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7597132E11D80C1500DD1919 /* background4.jpg */; };
-		7597134511D80C1500DD1919 /* cal.png in Resources */ = {isa = PBXBuildFile; fileRef = 7597132F11D80C1500DD1919 /* cal.png */; };
-		7597134611D80C1500DD1919 /* fav_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 7597133011D80C1500DD1919 /* fav_off.png */; };
-		7597134711D80C1500DD1919 /* fav_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 7597133111D80C1500DD1919 /* fav_on.png */; };
-		7597134811D80C1500DD1919 /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = 7597133211D80C1500DD1919 /* loading.png */; };
-		7597135211D80C1500DD1919 /* search.html in Resources */ = {isa = PBXBuildFile; fileRef = 7597133D11D80C1500DD1919 /* search.html */; };
-		7597135311D80C1500DD1919 /* schedule.html in Resources */ = {isa = PBXBuildFile; fileRef = 7597133E11D80C1500DD1919 /* schedule.html */; };
-		7597135411D80C1500DD1919 /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 7597133F11D80C1500DD1919 /* style.css */; };
-		7597135511D80C2400DD1919 /* data.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133411D80C1500DD1919 /* data.js */; };
-		7597135611D80C2400DD1919 /* favorites.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133511D80C1500DD1919 /* favorites.js */; };
-		7597135711D80C2400DD1919 /* filter.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133611D80C1500DD1919 /* filter.js */; };
-		7597135811D80C2400DD1919 /* helpers.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133711D80C1500DD1919 /* helpers.js */; };
-		7597135911D80C2400DD1919 /* jquery-1.4.2.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133811D80C1500DD1919 /* jquery-1.4.2.min.js */; };
-		7597135A11D80C2400DD1919 /* jqurl.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133911D80C1500DD1919 /* jqurl.js */; };
-		7597135B11D80C2400DD1919 /* jsinterface.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133A11D80C1500DD1919 /* jsinterface.js */; };
-		7597135C11D80C2400DD1919 /* json.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133B11D80C1500DD1919 /* json.js */; };
-		7597135D11D80C2400DD1919 /* util.js in Resources */ = {isa = PBXBuildFile; fileRef = 7597133C11D80C1500DD1919 /* util.js */; };
-		7597143F11D821A200DD1919 /* notice.html in Resources */ = {isa = PBXBuildFile; fileRef = 7597143E11D821A200DD1919 /* notice.html */; };
 		75DC11A511DB051000B3B528 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 75DC11A411DB051000B3B528 /* iTunesArtwork */; };
 		75F0449711D5545B002C3DED /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F0449611D5545B002C3DED /* button.png */; };
 		75F0449911D5552E002C3DED /* button_touch.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F0449811D5552E002C3DED /* button_touch.png */; };
 		75F50ED411D589B100CCC5E9 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 75F50ED311D589B100CCC5E9 /* icon.png */; };
+		C511AC9C168037480082FE65 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C511AC9B168037480082FE65 /* Default-568h@2x.png */; };
+		C5BA616F16ACFB4B0025AB94 /* www in Resources */ = {isa = PBXBuildFile; fileRef = C5BA616E16ACFB4B0025AB94 /* www */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,34 +36,14 @@
 		7540895111D3370C009F74A1 /* JSInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSInterface.h; sourceTree = "<group>"; };
 		7540895211D3370C009F74A1 /* JSInterface.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSInterface.m; sourceTree = "<group>"; };
 		75481EB611D848F10098C467 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = resources/Default.png; sourceTree = "<group>"; };
-		7597132911D80C1500DD1919 /* favorites.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = favorites.html; sourceTree = "<group>"; };
-		7597132B11D80C1500DD1919 /* background1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background1.jpg; sourceTree = "<group>"; };
-		7597132C11D80C1500DD1919 /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background2.jpg; sourceTree = "<group>"; };
-		7597132D11D80C1500DD1919 /* background3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background3.jpg; sourceTree = "<group>"; };
-		7597132E11D80C1500DD1919 /* background4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background4.jpg; sourceTree = "<group>"; };
-		7597132F11D80C1500DD1919 /* cal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cal.png; sourceTree = "<group>"; };
-		7597133011D80C1500DD1919 /* fav_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fav_off.png; sourceTree = "<group>"; };
-		7597133111D80C1500DD1919 /* fav_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fav_on.png; sourceTree = "<group>"; };
-		7597133211D80C1500DD1919 /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
-		7597133411D80C1500DD1919 /* data.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = data.js; sourceTree = "<group>"; };
-		7597133511D80C1500DD1919 /* favorites.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = favorites.js; sourceTree = "<group>"; };
-		7597133611D80C1500DD1919 /* filter.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = filter.js; sourceTree = "<group>"; };
-		7597133711D80C1500DD1919 /* helpers.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = helpers.js; sourceTree = "<group>"; };
-		7597133811D80C1500DD1919 /* jquery-1.4.2.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "jquery-1.4.2.min.js"; sourceTree = "<group>"; };
-		7597133911D80C1500DD1919 /* jqurl.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jqurl.js; sourceTree = "<group>"; };
-		7597133A11D80C1500DD1919 /* jsinterface.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jsinterface.js; sourceTree = "<group>"; };
-		7597133B11D80C1500DD1919 /* json.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = json.js; sourceTree = "<group>"; };
-		7597133C11D80C1500DD1919 /* util.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = util.js; sourceTree = "<group>"; };
-		7597133D11D80C1500DD1919 /* search.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = search.html; sourceTree = "<group>"; };
-		7597133E11D80C1500DD1919 /* schedule.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = schedule.html; sourceTree = "<group>"; };
-		7597133F11D80C1500DD1919 /* style.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
-		7597143E11D821A200DD1919 /* notice.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = notice.html; sourceTree = "<group>"; };
 		75DC11A411DB051000B3B528 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; name = iTunesArtwork; path = resources/iTunesArtwork; sourceTree = "<group>"; };
 		75DC11A811DB090B00B3B528 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 		75F0449611D5545B002C3DED /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button.png; path = resources/button.png; sourceTree = "<group>"; };
 		75F0449811D5552E002C3DED /* button_touch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button_touch.png; path = resources/button_touch.png; sourceTree = "<group>"; };
 		75F50ED311D589B100CCC5E9 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = resources/icon.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* TheNextHOPE-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TheNextHOPE-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		C511AC9B168037480082FE65 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		C5BA616E16ACFB4B0025AB94 /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +82,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				C511AC9B168037480082FE65 /* Default-568h@2x.png */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -143,11 +104,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C5BA616E16ACFB4B0025AB94 /* www */,
 				75481EB611D848F10098C467 /* Default.png */,
 				75DC11A411DB051000B3B528 /* iTunesArtwork */,
 				75F0449811D5552E002C3DED /* button_touch.png */,
 				75F0449611D5545B002C3DED /* button.png */,
-				753BA98011C585A90040C7FD /* www */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* TheNextHOPE-Info.plist */,
 				75F50ED311D589B100CCC5E9 /* icon.png */,
@@ -164,51 +125,6 @@
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		753BA98011C585A90040C7FD /* www */ = {
-			isa = PBXGroup;
-			children = (
-				7597132A11D80C1500DD1919 /* images */,
-				7597133311D80C1500DD1919 /* js */,
-				7597143E11D821A200DD1919 /* notice.html */,
-				7597133D11D80C1500DD1919 /* search.html */,
-				7597132911D80C1500DD1919 /* favorites.html */,
-				7597133E11D80C1500DD1919 /* schedule.html */,
-				7597133F11D80C1500DD1919 /* style.css */,
-			);
-			path = www;
-			sourceTree = "<group>";
-		};
-		7597132A11D80C1500DD1919 /* images */ = {
-			isa = PBXGroup;
-			children = (
-				7597132B11D80C1500DD1919 /* background1.jpg */,
-				7597132C11D80C1500DD1919 /* background2.jpg */,
-				7597132D11D80C1500DD1919 /* background3.jpg */,
-				7597132E11D80C1500DD1919 /* background4.jpg */,
-				7597132F11D80C1500DD1919 /* cal.png */,
-				7597133011D80C1500DD1919 /* fav_off.png */,
-				7597133111D80C1500DD1919 /* fav_on.png */,
-				7597133211D80C1500DD1919 /* loading.png */,
-			);
-			path = images;
-			sourceTree = "<group>";
-		};
-		7597133311D80C1500DD1919 /* js */ = {
-			isa = PBXGroup;
-			children = (
-				7597133411D80C1500DD1919 /* data.js */,
-				7597133511D80C1500DD1919 /* favorites.js */,
-				7597133611D80C1500DD1919 /* filter.js */,
-				7597133711D80C1500DD1919 /* helpers.js */,
-				7597133811D80C1500DD1919 /* jquery-1.4.2.min.js */,
-				7597133911D80C1500DD1919 /* jqurl.js */,
-				7597133A11D80C1500DD1919 /* jsinterface.js */,
-				7597133B11D80C1500DD1919 /* json.js */,
-				7597133C11D80C1500DD1919 /* util.js */,
-			);
-			path = js;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,9 +152,16 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TheNextHOPE" */;
-			compatibilityVersion = "Xcode 3.1";
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -253,34 +176,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7597135511D80C2400DD1919 /* data.js in Resources */,
-				7597135611D80C2400DD1919 /* favorites.js in Resources */,
-				7597135711D80C2400DD1919 /* filter.js in Resources */,
-				7597135811D80C2400DD1919 /* helpers.js in Resources */,
-				7597135911D80C2400DD1919 /* jquery-1.4.2.min.js in Resources */,
-				7597135A11D80C2400DD1919 /* jqurl.js in Resources */,
-				7597135B11D80C2400DD1919 /* jsinterface.js in Resources */,
-				7597135C11D80C2400DD1919 /* json.js in Resources */,
-				7597135D11D80C2400DD1919 /* util.js in Resources */,
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				75F0449711D5545B002C3DED /* button.png in Resources */,
 				75F0449911D5552E002C3DED /* button_touch.png in Resources */,
 				75F50ED411D589B100CCC5E9 /* icon.png in Resources */,
-				7597134011D80C1500DD1919 /* favorites.html in Resources */,
-				7597134111D80C1500DD1919 /* background1.jpg in Resources */,
-				7597134211D80C1500DD1919 /* background2.jpg in Resources */,
-				7597134311D80C1500DD1919 /* background3.jpg in Resources */,
-				7597134411D80C1500DD1919 /* background4.jpg in Resources */,
-				7597134511D80C1500DD1919 /* cal.png in Resources */,
-				7597134611D80C1500DD1919 /* fav_off.png in Resources */,
-				7597134711D80C1500DD1919 /* fav_on.png in Resources */,
-				7597134811D80C1500DD1919 /* loading.png in Resources */,
-				7597135211D80C1500DD1919 /* search.html in Resources */,
-				7597135311D80C1500DD1919 /* schedule.html in Resources */,
-				7597135411D80C1500DD1919 /* style.css in Resources */,
-				7597143F11D821A200DD1919 /* notice.html in Resources */,
 				75481EB711D848F10098C467 /* Default.png in Resources */,
 				75DC11A511DB051000B3B528 /* iTunesArtwork in Resources */,
+				C511AC9C168037480082FE65 /* Default-568h@2x.png in Resources */,
+				C5BA616F16ACFB4B0025AB94 /* www in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,7 +207,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_ENTITLEMENTS = "~/projects/thenexthope/hope_iphone/Entitlements.plist";
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/hope/iphone/Entitlements.plist";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Danny Robson (J9EA64DFC9)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -312,7 +216,8 @@
 				GCC_PREFIX_HEADER = TheNextHOPE_Prefix.pch;
 				INFOPLIST_FILE = "TheNextHOPE-Info.plist";
 				PRODUCT_NAME = TheNextHOPE;
-				SDKROOT = iphoneos3.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -321,14 +226,17 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CODE_SIGN_ENTITLEMENTS = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Micah Lee";
+				"CODE_SIGN_ENTITLEMENTS[sdk=iphoneos*]" = "~/Documents/hope/iphone/Entitlements.plist";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Danny Robson (J9EA64DFC9)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = TheNextHOPE_Prefix.pch;
 				INFOPLIST_FILE = "TheNextHOPE-Info.plist";
 				PRODUCT_NAME = TheNextHOPE;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "FD3C489F-EFEC-45A3-8914-A554DC36DE67";
-				SDKROOT = iphoneos3.0;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -342,9 +250,8 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PREBINDING = NO;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "858296BC-96D5-4AB0-BCE1-8FDB0E404CFA";
-				SDKROOT = iphoneos4.0;
+				SDKROOT = iphoneos;
 			};
 			name = "Ad-Hoc";
 		};
@@ -352,13 +259,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_ENTITLEMENTS = "~/projects/thenexthope/hope_iphone/Entitlements.plist";
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/hope/iphone/Entitlements.plist";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Danny Robson (J9EA64DFC9)";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = TheNextHOPE_Prefix.pch;
 				INFOPLIST_FILE = "TheNextHOPE-Info.plist";
 				PRODUCT_NAME = TheNextHOPE;
-				SDKROOT = iphoneos3.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = "Ad-Hoc";
@@ -371,9 +280,8 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				PREBINDING = NO;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "FF0B7B06-146E-4572-BB74-4DEA36D929E6";
-				SDKROOT = iphoneos3.0;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -386,8 +294,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PREBINDING = NO;
-				SDKROOT = iphoneos4.0;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
