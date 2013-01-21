@@ -1,6 +1,7 @@
 # Buildfiles from xcode
 /build
 
+.DS_Store
 # User spefici project files from xcode
 *.pbxuser
 *.mode1v3
