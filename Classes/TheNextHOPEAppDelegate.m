@@ -17,7 +17,7 @@
 	jsInterface = [[JSInterface alloc] init];
 	
 	// initialize the web view
-	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"schedule" ofType:@"html"]isDirectory:NO]]];
+	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"schedule" ofType:@"html" inDirectory:@"www"]isDirectory:NO]]];
 	
 	// attach the tab bar controller and launch
 	[window makeKeyAndVisible];
@@ -50,19 +50,19 @@
 }
 
 - (IBAction) doButtonSchedule {
-	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"schedule" ofType:@"html"]isDirectory:NO]]];
+	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"schedule" ofType:@"html" inDirectory:@"www"]isDirectory:NO]]];
 }
 
 - (IBAction) doButtonFavorites {
-	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"favorites" ofType:@"html"]isDirectory:NO]]];
+	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"favorites" ofType:@"html" inDirectory:@"www"]isDirectory:NO]]];
 }
 
 - (IBAction) doButtonSearch {
-	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"search" ofType:@"html"]isDirectory:NO]]];
+	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"search" ofType:@"html" inDirectory:@"www"]isDirectory:NO]]];
 }
 
 - (IBAction) doButtonNotice {
-	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"notice" ofType:@"html"]isDirectory:NO]]];
+	[hopeWebView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"notice" ofType:@"html" inDirectory:@"www"]isDirectory:NO]]];
 }
 
 @end
